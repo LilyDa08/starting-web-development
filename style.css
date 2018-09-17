@@ -1,0 +1,12 @@
+body{
+    
+}
+
+.films {
+    display: flex;
+    align-items: center;
+}
+
+span {
+    font-weight: bold;
+}
