@@ -6,7 +6,7 @@
 
 body {
     margin: auto;
-    width: 55vw;
+    width: 43vw;
     font-family: sans-serif;
     color: gray;
     font-weight: 100;
@@ -25,6 +25,7 @@ body {
     background-color: white;
     padding: 15px;
     border-radius: 5px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.37);
 }
 
 header {
@@ -32,7 +33,7 @@ header {
 }
 
 .photo {
-    border: 4px solid lightgray;
+    border: 4px solid #aaaaaa;
     border-radius: 50%;
     margin: 20px;
     height: 10em;
@@ -63,7 +64,7 @@ h2 {
     background-color: #d94949;
     padding: 8px 10px;
     border-radius: 5px;
-    margin-top: 10px;
+    margin: 100px;
 }
 
 
@@ -84,7 +85,7 @@ li {
 }
 
 a {
-    color: gray;
+    color: #aaaaaa;
     text-decoration: none;
     font-family: sans-serif;
     font-weight: 200;
@@ -99,16 +100,15 @@ i {
 .section-films {
     display: grid;
     grid-template-columns: 20% 80%;
-    grid-template-rows: 10% 30% 30% 30%;
+    grid-template-rows: 15% 25% 25% 25%;
     grid-gap: 0 20px;
-    padding: 20px;
+    padding: 20px 20px 0 20px;
+    margin-bottom: 10px;
 }
 .section-films span {
     background-color: lightgray;
 }
 
-.section-films h2 {
-}
 
 h3 {
     font-weight: 400;
@@ -120,10 +120,6 @@ h3 {
     align-items: center;
 }
 
-.text {
-    text-align: justify;
-    width: 95%;
-}
 
 .films img {
     width: 100%;
@@ -144,6 +140,11 @@ h3 {
 
 .film3 {
     grid-area: 4/1/4/1;
+}
+
+.text {
+    text-align: justify;
+    width: 95%;
 }
 
 .text1 {
