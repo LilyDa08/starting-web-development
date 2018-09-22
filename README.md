@@ -7,5 +7,5 @@ created on **september 2018** during my **BECODE** training.
 
 [Lily Danhaive](https://github.com/LilyDa08)
 
-![Tim](/timB.png)
+![Tim](/TimB.png)
 Format: ![Tim Berners-Lee](url)
