@@ -6,3 +6,6 @@ this is my work on Tim Berners-Lee's page.
 created on **september 2018** during my **BECODE** training.
 
 [Lily Danhaive](https://github.com/LilyDa08)
+
+![Tim](images/TimB.png)
+Format: ![Tim Berners-Lee](url)
