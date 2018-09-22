@@ -5,7 +5,7 @@ this is my work on Tim Berners-Lee's page.
 
 created on **september 2018** during my **BECODE** training.
 
-This exercice is - [X] complete.
+This exercice is - [x] complete.
 
 [Lily Danhaive](https://github.com/LilyDa08)
 
